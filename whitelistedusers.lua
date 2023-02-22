@@ -2,7 +2,8 @@ local Whitelisted = {
     4120835796;
     4242567620;
     367404826;
-    1394786071
+    1394786071;
+    214421334
 }
 
 if table.find(Whitelisted, game:GetService("Players").LocalPlayer.UserId) then
